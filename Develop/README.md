@@ -1,12 +1,14 @@
-# hi 
+# README Generator 
   ## Description 
-  do
+  Create a readme based on the questions presented in vs code 
   ## Installation
-  yes
+  vs code
   ## Usage
-  i dont know
+  Creating a readme file
   ## Contribution
-  maybe
+  wrote the js code
   ## Tests
-  any
+  node
+  ## Questions
+  sagenthave
   
